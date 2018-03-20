@@ -1,0 +1,9 @@
+{
+    "port": ":8000",
+    "routerendpoint" : "/api/domains",
+    "database": {
+        "username": "root",
+        "password": "hv6sKJvZMkUsiZBCMF8x6Jpg",
+        "dbname": "gotest"
+    }
+}
